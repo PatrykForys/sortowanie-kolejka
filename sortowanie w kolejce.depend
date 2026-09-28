@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790580410 source:c:\users\admin\desktop\zadanie67\sortowanie w kolejce\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
